@@ -9,7 +9,7 @@ It aims to forecast the upcoming headings, velocities, and positions of moving o
 
 --> The goal of this project is to forecast the trajectory of an ego vehicle depending on the objects in its immediate environment such as cars, pedestrians, motorbikes or bicycles.
 
-- **Libraries** - Numpy, PyTorch, PyTorch Lightening, Scikit learn, Pandas, MatplotLib, Plotly
+- **Libraries** - Pandas, PyTorch, PyTorch Lightening, Scikit learn.
 
 - **Language** - Python
 
